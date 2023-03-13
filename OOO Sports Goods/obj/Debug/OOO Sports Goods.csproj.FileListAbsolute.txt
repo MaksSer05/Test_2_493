@@ -1,0 +1,51 @@
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\bin\Debug\OOO Sports Goods.exe.config
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\bin\Debug\OOO Sports Goods.exe
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\bin\Debug\OOO Sports Goods.pdb
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\obj\Debug\OOO_Sports_Goods.FAutores.resources
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\obj\Debug\OOO_Sports_Goods.Properties.Resources.resources
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.exe
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.pdb
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\bin\Debug\EntityFramework.dll
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\bin\Debug\EntityFramework.xml
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.csproj.CopyComplete
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\obj\Debug\OOO_Sports_Goods.Entity.ProductCard.resources
+C:\Users\stud\Desktop\User23_493\OOO Sports Goods\obj\Debug\OOO_Sports_Goods.Katalog.resources
+C:\Users\stud\493\User23_493\OOO Sports Goods\obj\Debug\OOO_Sports_Goods.Entity.ProductCard.resources
+C:\Users\stud\493\User23_493\OOO Sports Goods\obj\Debug\OOO_Sports_Goods.FAutores.resources
+C:\Users\stud\493\User23_493\OOO Sports Goods\obj\Debug\OOO_Sports_Goods.Katalog.resources
+C:\Users\stud\493\User23_493\OOO Sports Goods\obj\Debug\OOO_Sports_Goods.Properties.Resources.resources
+C:\Users\stud\493\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.csproj.GenerateResource.cache
+C:\Users\stud\493\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.csproj.CoreCompileInputs.cache
+C:\Users\stud\493\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.exe
+C:\Users\stud\493\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.pdb
+C:\Users\stud\493\User23_493\OOO Sports Goods\bin\Debug\OOO Sports Goods.exe.config
+C:\Users\stud\493\User23_493\OOO Sports Goods\bin\Debug\OOO Sports Goods.exe
+C:\Users\stud\493\User23_493\OOO Sports Goods\bin\Debug\OOO Sports Goods.pdb
+C:\Users\stud\493\User23_493\OOO Sports Goods\bin\Debug\EntityFramework.dll
+C:\Users\stud\493\User23_493\OOO Sports Goods\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud\493\User23_493\OOO Sports Goods\bin\Debug\EntityFramework.xml
+C:\Users\stud\493\User23_493\OOO Sports Goods\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud\493\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.csproj.CopyComplete
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\bin\Debug\OOO Sports Goods.exe.config
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\bin\Debug\OOO Sports Goods.exe
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\bin\Debug\OOO Sports Goods.pdb
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\bin\Debug\EntityFramework.dll
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\bin\Debug\EntityFramework.xml
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.csproj.AssemblyReference.cache
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.csproj.SuggestedBindingRedirects.cache
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\obj\Debug\OOO_Sports_Goods.Entity.ProductCard.resources
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\obj\Debug\OOO_Sports_Goods.FAutores.resources
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\obj\Debug\OOO_Sports_Goods.Katalog.resources
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\obj\Debug\OOO_Sports_Goods.Properties.Resources.resources
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.csproj.GenerateResource.cache
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.csproj.CoreCompileInputs.cache
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.csproj.CopyComplete
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.exe
+C:\Users\young\Downloads\User23_493\OOO Sports Goods\obj\Debug\OOO Sports Goods.pdb

@@ -1,0 +1,26 @@
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\UnitTest493_Lab2.dll
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\UnitTest493_Lab2.pdb
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\OOO Sports Goods.exe
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\EntityFramework.dll
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\OOO Sports Goods.pdb
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\OOO Sports Goods.exe.config
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\bin\Debug\EntityFramework.xml
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\obj\Debug\UnitTest493_Lab2.csprojAssemblyReference.cache
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\obj\Debug\UnitTest493_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\obj\Debug\UnitTest493_Lab2.csproj.CopyComplete
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\obj\Debug\UnitTest493_Lab2.dll
+C:\Users\stud\493\User23_493\UnitTest493_Lab2\obj\Debug\UnitTest493_Lab2.pdb
+C:\Users\young\Downloads\User23_493\UnitTest493_Lab2\obj\Debug\UnitTest493_Lab2.csproj.AssemblyReference.cache
+C:\Users\young\Downloads\User23_493\UnitTest493_Lab2\obj\Debug\UnitTest493_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\young\Downloads\User23_493\UnitTest493_Lab2\obj\Debug\UnitTest493_Lab2.dll
+C:\Users\young\Downloads\User23_493\UnitTest493_Lab2\obj\Debug\UnitTest493_Lab2.pdb

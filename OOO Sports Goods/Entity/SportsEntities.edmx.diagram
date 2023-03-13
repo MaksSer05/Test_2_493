@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="df22c24fca8146d4b11c6cec43def6eb" Name="Diagram1">
+        <EntityTypeShape EntityType="User23_493Model.Category" Width="1.5" PointX="0.5" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="User23_493Model.Manufacturer" Width="1.5" PointX="6.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="User23_493Model.Product" Width="1.5" PointX="3.875" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="User23_493Model.Provide" Width="1.5" PointX="0.5" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="User23_493Model.Role" Width="1.5" PointX="7.875" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="User23_493Model.Unit" Width="1.5" PointX="6.125" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="User23_493Model.User" Width="1.5" PointX="11" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="User23_493Model.FK__Product__Product__571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="User23_493Model.FK__Product__Product__5812160E" ManuallyRouted="false" />
+        <AssociationConnector Association="User23_493Model.FK__Product__Product__59063A47" ManuallyRouted="false" />
+        <AssociationConnector Association="User23_493Model.FK__Product__Product__59FA5E80" ManuallyRouted="false" />
+        <AssociationConnector Association="User23_493Model.FK__User__UserRole__37A5467C" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
